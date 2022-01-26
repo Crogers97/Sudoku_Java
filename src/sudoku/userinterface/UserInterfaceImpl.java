@@ -1,2 +1,4 @@
-package sudoku.userinterface;public class UserInterfaceImpl {
+package sudoku.userinterface;
+
+public class UserInterfaceImpl {
 }
